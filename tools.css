@@ -1,0 +1,83 @@
+body{
+  background-color:gray;
+  align-items: center;
+  width: 280px;;
+  padding: 3px;
+}
+P{
+  cursor: pointer;
+ }
+.container{
+  background-color: black;
+  border-radius: 14px;
+  height: 500px;
+  width: 280px;
+}
+.Tools{
+  font-size: 28px;
+  color: white;
+  padding: 20px 0px 4px 7px;
+}
+.grow-your-business{
+  font-size: 12px;
+  margin: 0 0 0 16px;
+  color: gray;
+}
+.name-box{
+  color: white;
+  font-size: 12px;
+  margin: 0px 0px 0px 70px;
+  padding: 9px 0 0 0 ;
+}
+.name-box2{
+  color: gray;
+  margin: 0px 0px 0px 70px;
+  padding:  0 0 0 0 ;
+  font-size: 12px;
+}
+.performace{
+  color: #808080;
+  font-size: 14px;
+  margin: 0 0 0 16px;
+
+}
+.chats_bar2{
+  background-color: rgb(12, 12, 12);
+  height:70px;
+  width: 94%;
+  border-radius: 12px;
+  margin: 18px 0px 12px 8px;
+}
+.chats_bar{
+  background-color: rgb(12, 12, 12);
+  height:79px;
+  width: 94%;
+  border-radius: 8px;
+  margin: 26px 0px 19px 8px;
+}
+.business-tools{
+  color: #808080;
+  font-size: 14px;
+  margin: 0 0 0 16px;
+}
+.chats-bar-last{
+  background-color: rgb(12, 12, 12);
+  height:81px;
+  width: 94%;
+  border-radius: 8px;
+  margin: 4px 0px 18px 8px;
+}
+.metu-bar{
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+  background-color: rgb(15, 15, 15);
+  opacity: 20px;
+}
+.update{
+  margin-left: 2px;
+  width: 100%;
+  margin: 15px 5px 0px 5px;
+  color: gray;
+  text-decoration: none;
+}

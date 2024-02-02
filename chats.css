@@ -1,0 +1,78 @@
+body{
+  background-color:gray;
+  align-items: center;
+  padding: 3px;
+}
+P{
+  cursor: pointer;
+}
+.container{
+  background-color: black;
+  border-radius: 14px;
+  height: 500px;
+  width: 280px;
+}
+button{
+  border: none;
+  cursor: pointer;
+  background-color: black;
+  color: blue;
+}
+.top-bar{
+  padding-top: 4px;
+  margin-left: 4px;
+}
+.edit_bar{
+  margin-right: 130px;
+}
+.Whatsapp{
+  font-size: 28px;
+  color: white;
+  margin: 0px 0px 2px 7px;
+}
+.text{
+  border-radius: 5px;
+  background-color: rgb(22, 22, 22);
+  color: white;
+  border: 2px;
+  width: 260px;
+  margin-left: 7px;
+  padding-bottom: 4px;
+}
+.labels{
+  width: 260px;
+  margin-top: 4px;
+  padding-right: 150px;
+}
+.new{
+  margin-left: 95px;
+}
+.lock{
+  color: white;
+  width: 260px;
+  padding-right: 130px;
+}
+.archived{
+  color: white;
+  width: 260px;
+  padding-right: 150px;
+}
+.chats_bar{
+  background-color: rgb(12, 12, 12);
+  height: 287px;
+  width: 280px;
+}
+.metu-bar{
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+  background-color: rgb(15, 15, 15);
+  opacity: 20px;
+}
+.update{
+  margin-left: 2px;
+  width: 100%;
+  margin: 15px 5px 0px 5px;
+  color: gray;
+  text-decoration: none;
+}

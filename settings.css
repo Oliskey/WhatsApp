@@ -1,0 +1,104 @@
+body{
+  background-color:gray;
+  align-items: center;
+  width: 100%;
+  padding: 3px;
+}
+ P{
+  cursor: pointer;
+ }
+.container{
+  background-color: black;
+  border-radius: 14px;
+  height: 500px;
+  width: 280px;
+}
+.settings-title{
+  color: white;
+  margin: 0 0px 0px 6px;
+  font-size: 30px;
+  padding: 40px 0px 0;
+}
+.text{
+  border-radius: 5px;
+  height: 18px;
+  background-color: rgb(22, 22, 22);
+  color: white;
+  border: none;
+  width: 93%;
+  margin: 9px 0px 8px 6px;
+}
+.chats_bar1{
+  background-color: rgb(12, 12, 12);
+  color: white;
+  height:70px;
+  width: 94%;
+  border-radius: 12px;
+  margin: 8px 0px 10px 8px;
+}
+.name-title{
+  font-size: 20px;
+  padding: 4px 0px 0px 70px;
+  margin: 0px;
+}
+.name-description{
+  font-size: 12px;
+  padding: 0px 0px 0px 70px;
+  color: gray;
+  margin: 0px;
+}
+.name-box{
+  color: white;
+  margin: 9px 0px 0px 40px;
+  padding: 9px 0 0 0 ;
+  font-size: 15px;
+}
+.name-box2{
+  color: white;
+  margin: 12px 0px 0px 40px;
+  padding:  0 0 0 0 ;
+  font-size: 16px;
+
+}
+.chats_bar2{
+  background-color: rgb(12, 12, 12);
+  height:70px;
+  width: 94%;
+  border-radius: 12px;
+  margin: 18px 0px 12px 8px;
+}
+.chats_bar3{
+  background-color: rgb(12, 12, 12);
+  height:88px;
+  width: 94%;
+  border-radius: 12px;
+  margin: 18px 0px 14px 8px;
+}
+.chats_bar4{
+  background-color: rgb(12, 12, 12);
+  height:61px;
+  width: 94%;
+  border-radius: 12px;
+  margin: 17px 0px -4px 8px;
+}
+.name-box4{
+  color: white;
+  margin: 12px 0px 0px 40px;
+  padding:  0 0 0 0 ;
+  font-size: 16px;
+  padding: 4px 0px 0px 0px;
+}
+.metu-bar{
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+  background-color: rgb(15, 15, 15);
+  opacity: 20px;
+}
+.update{
+  margin-left: 2px;
+  width: 100%;
+  margin: 15px 5px 0px 5px;
+  color: gray;
+  text-decoration: none;
+}

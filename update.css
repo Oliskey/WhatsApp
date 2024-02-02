@@ -1,0 +1,104 @@
+body{
+  background-color:gray;
+  padding: 3px;
+}
+p{
+  color: rgb(255, 255, 255);
+  margin: none;
+  cursor: pointer;
+}
+.container{
+  background-color: black;
+  border-radius: 14px;
+  height: 500px;
+  width: 280px;
+}
+.metu{
+  margin: 6px 0 0 250px;
+  width: 15px;
+}
+.update-titile{
+  margin: 0 0 0 0;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin: 0 0 0 10px;
+}
+.text{
+  background-color: rgb(37, 37, 37);
+  color: white;
+  border: none;
+  height: 10px;
+  border-radius: 6px;
+  margin: 2px 5px 0 ;
+  padding: 5px;
+  width: 92%;
+}
+.statu{
+  display: flex;
+  flex-direction: row;
+}
+.boost_status{
+  background-color: rgba(41, 40, 40, 0.61);
+  border: none;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  padding: 20px 0 0 6px;
+}
+.B_staus{
+  align-items: center;
+  margin: 0 150px 0 0;
+  color: blue;
+}
+.share{
+  margin: 0 0 0 ;
+  color: blue;
+}
+.status{
+  font-weight: bold;
+  font-size: 18px;
+  margin: 0 190px 0 7px;
+}
+.pluse{
+  margin: 0 0 0 0;
+  color: blue;
+}
+.status_update{
+  background-color: rgba(14, 11, 11, 0.918);
+  height: 48px;
+  width: 100%;
+  margin: 0 0 2px 0;
+}
+.channels{
+  display: flex;
+  flex-direction: row;
+}
+.real_channels{
+  margin: 0 170px 0  0;
+  font-size: 20px;
+}
+.Reach{
+  color: rgb(100, 99, 99);
+  font-family:serif;
+  margin: 0 11px 0;
+  font-size: 12px;
+}
+.chats_bar{
+  background-color: rgb(12, 12, 12);
+  height: 210px;
+  width: 100%;
+}
+.metu-bar{
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+  background-color: rgb(15, 15, 15);
+  opacity: 20px;
+}
+.update{
+  margin-left: 2px;
+  width: 100%;
+  margin: 15px 5px 0px 5px;
+  color: gray;
+  text-decoration: none;
+}
